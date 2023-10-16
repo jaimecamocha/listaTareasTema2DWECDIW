@@ -1,0 +1,56 @@
+body {
+    background-color: #f0f0f0;
+    font-size: 20px;
+}
+
+#contenedor {
+    background-color: #fff;
+    padding: 30px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-family: 'Young Serif', sans-serif;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 0;
+    display: block;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 0;
+    list-style: none;
+}
+
+#inputTarea {
+    width: 70%;
+    font-size: 20px;
+    display: inline;
+}
+
+#agregarTarea {
+    font-size: 20px;
+    display: inline;
+    margin-left: 10px;
+}
+
+#limpiarTarea {
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
